@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1F54C8A3-63D1-416C-8994-E762E19BA5C8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8831847-6F71-451C-9F9E-1374305B1154"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NZImageDemo/MVVM/NZPhotoService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C35AC95-5CC7-445B-80DD-70D33FE879D3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NZImageDemo/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "scene(_:willConnectTo:options:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5C35AC95-5CC7-445B-80DD-70D33FE879D3 - 9daa096a93919ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NZImageDemo.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -&gt; ()"
+                  moduleName = "NZImageDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zambrenileshappasaheb/Documents/Nilesh%20Demo/MVVM-Image-Demo-master/NZImageDemo/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "171">
+               </Location>
+               <Location
+                  uuid = "5C35AC95-5CC7-445B-80DD-70D33FE879D3 - 9daa096a93919ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NZImageDemo.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -&gt; ()"
+                  moduleName = "NZImageDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zambrenileshappasaheb/Documents/Nilesh%20Demo/MVVM-Image-Demo-master/NZImageDemo/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "261">
+               </Location>
+               <Location
+                  uuid = "5C35AC95-5CC7-445B-80DD-70D33FE879D3 - a6557a693bceba75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NZImageDemo.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -&gt; ()"
+                  moduleName = "NZImageDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zambrenileshappasaheb/Documents/Nilesh%20Demo/MVVM-Directory-Demo/NZImageDemo/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "171">
+               </Location>
+               <Location
+                  uuid = "5C35AC95-5CC7-445B-80DD-70D33FE879D3 - a6557a693bceba75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NZImageDemo.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -&gt; ()"
+                  moduleName = "NZImageDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zambrenileshappasaheb/Documents/Nilesh%20Demo/MVVM-Directory-Demo/NZImageDemo/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "261">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "086349F4-D1E4-4BDA-B7DD-11C54221901E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NZImageDemo/MVVM/NZTabbarVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
